@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as s,g as c}from"./app.df7a48ba.js";const t="/build/assets/food.4a0a7f2f.jpg",e={},r={src:t,class:"Logo"};function n(_,a){return s(),c("img",r)}const p=o(e,[["render",n]]);export{p as A};
